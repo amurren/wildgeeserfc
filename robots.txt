@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /henrybreton/pics/humor/
+Disallow: /coppermine/
+
+sitemap: http://cdn.attracta.com/sitemap/540397.xml.gz
+
+sitemap: http://cdn.attracta.com/sitemap/540398.xml.gz
+
+sitemap: http://cdn.attracta.com/sitemap/540392.xml.gz
+
+sitemap: http://cdn.attracta.com/sitemap/540394.xml.gz

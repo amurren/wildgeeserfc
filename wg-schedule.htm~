@@ -1,0 +1,332 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Wild Geese Rugby Football Club Current "Old Boys" Schedule</title>
+<link rel="stylesheet" type="text/css" href="styleSheet.css" /> 
+<link rel="stylesheet" type="text/css" href="menu.css" /> 
+
+<!-- The following script is for Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15337924-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</head>
+
+<body>
+
+
+<div id="maincontainer">
+<!-- <div id="leftside"></div> -->
+
+<?php include("header.php"); ?>
+
+<div id="contentwrapper">
+<div id="contentcolumn">
+<br/>
+<div class="innertube">
+
+
+<h3 class="center">2014 Spring Season</h3>
+
+<a href="m/msched.htm">Mobile-Friendly Schedule</a>  | 
+<a href="https://www.google.com/calendar/ical/f4pa4dm9102rnpa2ormdg7qfk8%40group.calendar.google.com/public/basic.ics" target="_blank" >Wild Geese Google Calendar</a>
+
+<div>
+	<table align ="center" width="100%" bgcolor="#FFFFFF" border="1" cellpadding="2" cellspacing="2">
+		<colgroup span="5">
+			<col width="20%"></col>
+			<col width="20%"></col>
+			<col width="20%"></col>
+			<col width="20%"></col>
+			<col width="20%"></col>
+		</colgroup>
+		
+		<tr> 
+		   <th bgcolor="#C0C0C0">Date</th>
+		   <th bgcolor="#C0C0C0">Opposition</th>
+		   <th bgcolor="#C0C0C0">Venue</th>
+		   <th bgcolor="#C0C0C0">Result</th>
+		   <th bgcolor="#C0C0C0">Comments</th>
+		</tr>
+		
+		<tr>
+			<td class="center">
+				March 16
+				<br/>				
+				Start Time 1:00pm
+				<!-- <a href="http://new.evite.com/#view_invite:eid=02FDWHKJXD5OQEIJEEPDDKGFAQCE6U" target="_blank">eVite</a>  -->
+			</td>
+			<td class="center">
+				Field Maintenance day and Geese Burger burn 				
+			</td>
+			<td  class="center">
+				<p><a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&t=h&msa=0&msid=101164531773874534411.000457166e28a1a7eab86&ll=39.191953,-77.467046&spn=0.004856,0.006673&z=17" 
+				target="_blank">Gosling Park (Dickerson, MD)</a></p>
+				<p><a href= 'http://www.wildgeeserugby.org/warner_farm_directions.htm' target="_blank">Directions</a></p>
+			</td> 
+			<td class="center">
+				<br/>
+			</td>
+			<td class="center">
+				
+			</td>
+		</tr>
+		
+		
+		<tr>
+			<td class="center">
+				March 23
+				</br>
+				1pm Kick-Off
+				<br/>
+				<a href="http://www.evite.com/event/02FDL7E7ZUJ76M5AGEPDV7KVVRCPKQ" target="_blank">eVite</a>
+				<br />
+				<a href="WildGeeseRugbySeasonOpener.ics" target="_blank">iCal Calendar</a>
+			</td>
+			<td class="center">
+				<p>1:00  Geese vs. <a href="http://www.baltimorerugby.net/views/OldBoys.aspx" target="_blank">Baltimore Old Boys</a></p>				<p>2:30  <a href="http://www.poltroonsrugby.org"  target="_blank">Poltroons</a> vs. 
+					<a href="http://www.alexandriaroostersrugbyfootballclub.com/" target="_blank">Alexandria Roosters</a></p>
+				
+			</td>
+			<td class="center">
+				<p><a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&t=h&msa=0&msid=101164531773874534411.000457166e28a1a7eab86&ll=39.191953,-77.467046&spn=0.004856,0.006673&z=17" 
+				target="_blank">Gosling Park (Dickerson, MD)</a></p>
+				<p><a href= 'http://www.wildgeeserugby.org/warner_farm_directions.htm' target="_blank">Directions</a></p>
+			</td> 
+			<td class="center">
+				
+			</td>
+			<td class="center">
+				
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="center">
+				April 6 
+				<br/>				
+				(Kick Off - 1pm)
+				<br/>
+				<a href="http://www.evite.com/event/02FDIWXFHKJSRQMRGEPDXLMB3CZO5M" target="_blank">eVite</a>  
+			</td>
+			<td class="center">
+				<p>1:00 Geese vs. <a href="http://www.alexandriaroostersrugbyfootballclub.com/" target="_blank">Alexandria Roosters</a></p>				<p>2:30 <a href="http://www.poltroonsrugby.org"  target="_blank">Poltroons</a> vs. 
+					<a href="http://www.richmondrugby.net/Vagents.html" target="_blank">Virginia Gentlemen</a>
+				</p>
+			</td>
+			<td class="center">
+				Hensley Park, 4200 Eisenhower Avenue, Alexandria, VA 22304
+			</td> 
+			<td class="center">
+				<br/>
+			</td>
+			<td class="center">
+				
+			</td>
+		</tr>		
+		
+		<tr>
+			<td class="center">
+				April 12
+				<br/>
+				
+				<!-- <a href="http://www.evite.com/event/02FDC5BJHXN6IM5RMEPDFNWSUWWKYU" target="_blank">eVite</a> -->
+			</td>
+			<td class="center">
+				NOLA French Quarter Festival and Rugby Tournament
+			</td>
+			<td class="center">
+				New Orleans, LA
+			</td> 
+			<td>
+			
+			</td>
+			 <td class="center">
+				Geese will enter over 45s and <a href="http://www.poltroonsrugby.org"  target="_blank">Poltroons</a>	 Over 35s								
+			</td> 
+		</tr>		
+
+		<tr>
+			<td class="center">
+				April 26 
+				<br/>
+				(Kick Off - TBA)
+				<br/>
+				<!-- <a href="http://new.evite.com/#view_invite:eid=02FDAARBSZI3CIBSCEPCQRZ2AZYQR4" target="_blank">eVite</a> -->
+			</td>
+			<td class="center">
+				<a href="http://www.poltroonsrugby.org"  target="_blank">Poltroons</a>
+			</td>
+			<td class="center">
+				Jefferson Patterson Park and Museum, 10515 Mackall Rd, St. Leonard, MD
+			</td> 
+			<td class="center">
+				
+			</td>
+			<td class="center">
+				Celtic Fest
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="center">
+				May 4 
+				<br/>				
+				(Kick Off - TBA)
+				<br/>
+				<!-- <a href="http://new.evite.com/#view_invite:eid=02FDAARBSZI3CIBSCEPCQRZ2AZYQR4" target="_blank">eVite</a> -->
+			</td>
+			<td class="center">
+				<a href="http://www.richmondrugby.net/Vagents.html" target="_blank">Virginia Gentlemen</a>
+			</td>
+			<td class="center">
+				Away
+			</td> 
+			<td class="center">
+				<br/>
+			</td>
+			<td class="center">
+				
+			</td>
+		</tr>		
+		
+		
+		<tr>
+			<td class="center">
+				May 18
+				<br/>
+				Over 50's kick off - Noon
+				<br />
+				Over 35's kick off - 1:30
+				<br/>
+				<a href="http://www.evite.com/event/02FD7X7MMUK2WEM6EEPD3MGB75CQLY" target="_blank">eVite</a> 
+			</td>
+			<td class="center">
+				Geese Over 50's Festival & Gary Coetzee Day
+			</td>
+			<td class="center">
+					<p><a href="http://maps.google.com/maps/ms?			hl=en&ie=UTF8&t=h&msa=0&msid=101164531773874534411.000457166e28a1a7eab86&ll=39.191953,-77.467046&spn=0.004856,0.006673&z=17" 
+				target="_blank">Gosling Park (Dickerson, MD)</a></p>
+				<p><a href= 'http://www.wildgeeserugby.org/warner_farm_directions.htm' target="_blank">Directions</a></p>
+			</td> 
+			<td class="center">
+				<br/>
+			</td>
+			<td class="center">
+				To include one over 35's match as well
+			</td>
+		</tr>		
+
+		<tr>
+			<td class="center">
+				May 24
+				<br/>
+				(Kick Off - TBA)
+				<br/>
+				<!-- <a href="http://www.evite.com/event/02FD4N74UEEIMMBI6EPDIHJNSGBPWU" 	target="_blank">eVite</a> -->
+			</td>
+			<td class="center">
+				<a href="http://www.washingtonirishrfc.org" target="_blank" >Washington Irish</a> Over 30 under 30 
+			</td>
+			<td class="center">
+				Away
+			</td> 
+			<td class="center">
+				<br/>
+			</td>
+			<td class="center">
+				
+			</td>
+		</tr>
+
+		<tr>
+			<td class="center">
+				June 1
+				<br/>
+				(Kick Off - 12pm)
+				<br/>
+				<a href="http://www.evite.com/event/02FDT5GK4WPTUIS5EEPD4ZQAJKAKKE" 	target="_blank">eVite</a> 
+			</td>
+			<td class="center">
+				<p>12:00 Geese vs. <a href="http://www.poltroonsrugby.org"  target="_blank">Poltroons</a></p>				<p>1:30 <a href="http://www.alexandriaroostersrugbyfootballclub.com/" target="_blank">Alexandria Roosters</a> vs. 
+					<a href="http://www.baltimorerugby.net/views/OldBoys.aspx" target="_blank">Baltimore Old Boys</a></p>			</td>
+			<td class="center">
+				<a href="http://maps.google.com/maps?ll=38.906196,-76.526556&z=14&t=m&hl=en-US&gl=US&mapclient=embed&q=830%20Mayo%20Rd%20Edgewater,%20MD%2021037" 
+				target="_blank">American Legion Post 226, 830 Mayo Rd, Edgewater, MD 21037</a>
+			</td> 
+			<td class="center">
+				<br/>
+			</td>
+			<td class="center">
+				
+			</td>
+		</tr>
+
+		<tr>
+			<td class="center">
+				June 14
+				<br/>
+				(Kick Off - 11:00am)
+				<br/>
+				<!-- <a href="http://www.evite.com/event/02FD45PZ5SR6IIGTEEPDJJFZQEJR6A" target="_blank">eVite</a>  -->
+			</td>
+			<td class="center">
+				2nd Annual Wild Geese “Catch a Goose” Touch Tournament
+			</td>
+			<td class="center">
+				<p><a href="http://maps.google.com/maps/ms?			hl=en&ie=UTF8&t=h&msa=0&msid=101164531773874534411.000457166e28a1a7eab86&ll=39.191953,-77.467046&spn=0.004856,0.006673&z=17" 
+				target="_blank">Gosling Park (Dickerson, MD)</a></p>
+				<p><a href= 'http://www.wildgeeserugby.org/warner_farm_directions.htm' target="_blank">Directions</a></p>
+			</td> 
+			<td class="center">
+				<br/>
+			</td>
+			<td class="center">
+				
+			</td>
+		</tr>		
+				
+							
+				
+	</table>
+</div>
+
+
+
+
+</div>
+
+
+<br/>
+<br/>
+
+
+</div>
+</div>
+<div id="leftcolumn">
+
+<?php include("left-menu-SSI.php"); ?>
+  
+</div>
+<p class="valid_xhtml_icon">
+    <a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+</p>
+
+<?php include("footer.php"); ?>
+
+</div>
+
+</body>
+</html>
+
+

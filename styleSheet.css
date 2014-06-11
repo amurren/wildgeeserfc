@@ -1,0 +1,164 @@
+body{
+	margin:0;
+	padding:0;
+	line-height: 1.3em;
+	font: 14px Helvetica, "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+	margin-top: 5px; 
+}
+
+#left-SSI-image
+{
+	position:absolute;
+	left:15%
+}
+
+b{
+	font-size: 110%;
+}
+
+#header-news{
+	color: white;
+}
+
+.lighttext{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+h5.directions{
+	color: gray;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.center{
+	text-align: center;
+}
+
+img.ad{
+	height: 150px;
+}
+
+img.normal{
+	width: 100%;
+}
+
+img.wide{
+	width: 100%;;
+}
+
+img.tall{
+	height: 100%;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.strong{
+	font-weight: bold;
+}
+
+.announcement{
+	color: #003400;
+	font-weight: bold;
+	text-align: center;
+}
+
+.default_bg{
+	background: #003400;
+}
+
+.valid_xhtml_icon{
+	text-align: right;
+}
+
+#maincontainer{
+	width: 810px; /*Width of main container*/
+	margin: 0 auto; /*Center container on page*/
+	border: 1px solid #003400; 
+/*	border-style: groove inset solid none; */
+/*	border-color: pink;*/
+/*	border-width: medium;*/
+}
+
+#topsection{
+
+	height: 130px;
+/* height: 124px; /*Height of top section */ */
+/*	border-style: groove inset solid none;*/
+/*	border-color: cyan;*/
+/*	border-width: medium;*/
+
+}
+
+#topsection h1{
+	margin: 0;
+	padding-top: 10px;
+}
+
+#contentwrapper{
+	float: left;
+	width: 100%;
+}
+
+#contentcolumn{
+	margin-left: 174px; /*Set left margin to LeftColumnWidth*/
+/*	border-style: groove inset solid none;*/
+/*	border-color: mediumpurple;*/
+/*	border-width: medium;*/
+
+}
+
+#leftside {
+	position:absolute;
+	width: 10px; /*Width of left column*/
+	/* height: 970px; */
+	margin-left: 810px; /*Set left margin to -(MainContainerWidth)*/
+	background: #003400;
+/*	border-style: groove inset solid none;*/
+/*	border-color: red;*/
+/*	border-width: medium;*/
+
+}
+
+#leftcolumn{
+	margin-top: 10px; 
+	float: left;
+	/* min-height: 750px; */
+	/* max-height:  1500px; */
+	height: 100%;
+	width: 178px; /*Width of left column*/
+	max-width: 180px;
+	margin-left: -810px; /*Set left margin to -(MainContainerWidth)*/
+	background: #003400;
+/*	border-style: groove inset solid none;*/
+/*	border-color: blue;*/
+/*	border-width: medium;*/
+}
+
+#footer{
+	clear: left;
+	width: 100%;
+	background: #003400;
+	color: #FFF;
+	text-align: center;
+	padding: 15px 0;
+	a:link {color:#FFF;};
+	a:visited {color:#FFFF85;};
+/*	border-style: groove inset solid none; */
+/*	border-color: red;*/
+/*	border-width: medium;*/
+	
+}
+
+.innertube{
+	margin: 10px; /*Margins for inner DIV inside each column (to provide padding)*/
+	margin-top: 0;
+	height: 100%;
+/*	border-style: groove inset solid none; */
+/*	border-color: red; */
+/*	border-width: medium;*/
+
+}

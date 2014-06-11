@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<title>Wild Geese Rugby Football Club Current "Old Boys" - Mobile Home</title>
+		<link rel="stylesheet" type="text/css" href="mstyle.css" /> 
+
+<!-- The following script is for Google Analytics -->
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		
+		<script type="text/javascript">
+			try {
+				var pageTracker = _gat._getTracker("UA-15337924-1");
+				pageTracker._trackPageview();
+			} catch(err) {}
+		</script>
+
+<!-- Added for iPhone interoperability -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	</head>
+
+<body>
+	<div id="footer">
+		<br />
+	</div>
+	<div id="footer">
+		<a href="/m/msched.htm" style="background-color:white;">Mobile Schedule</a> 
+		<br />
+		<a href="/index.php" style="background-color:white;">Regular Site</a> | 
+		<a href="/wg-schedule.htm" style="background-color:white;">Regular Schedule</a> 
+		<br />
+	</div>
+		<div id="footer">
+		<br />
+	</div>
+
+			 		<div>
+						<h1>Wild Geese Rugby Club</h1>
+						<p>
+<div>
+						<h2>Join us at the Geese Over 50's festival on 18 May</h2>
+						<p>
+							Come join for our Over 50's Festival at our home pitch. Over 50's game starts at noon and the over 35's 
+							game starts at 1:30. There will be at least three teams playing so there should be lots of opportunities 
+							to play with food and beverages for when the game is over (or you are too tired to play anymore).
+						</p>
+						<p>
+							This is also <a href="http://www.youcaring.com/medical-fundraiser/get-gary-going-home-to-work-coaching-/118024" target="_blank">Gary 
+							Coetzee Day</a>. Gary runs <a href="http://greatfallsrugby.com/" target="_blank">Great Falls Youth Rugby</a>
+							and plays Old Boy Rugby. In Nov 2013 Gary was injured playing rugby. We are suggestion a $20 
+							donation per person with the net proceeds will be donated to Gary.
+						</p>
+						<p>
+							We are looking forward to seeing you for a great day of rugby and to support a fellow rugger who 
+							has given a lot to the sport.
+						</p>
+
+						<p>
+							<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+								<input type="hidden" name="cmd" value="_s-xclick">
+								<input type="hidden" name="hosted_button_id" value="8AWSD638DYEJ2">
+								<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+								<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							</form>
+						
+						</p>						
+						
+					</div>
+							Saturday 14 June is our Second Annual Touch Tournament! See the details on our 
+							<a href="touch-tournament-2014.htm">Catch A Goose Tournament</a>
+						</p>
+					</div>
+					
+	<div id="footer">
+		<br />
+	</div>	
+	<div id="footer">
+		<a href="/m/msched.htm" style="background-color:white;">Mobile Schedule</a> 
+		<br />
+		<a href="/index.php" style="background-color:white;">Regular Site</a> | 
+		<a href="/wg-schedule.htm" style="background-color:white;">Regular Schedule</a> 
+		<br />
+	</div>
+	<div id="footer">
+		<br />
+	</div>
+</body>
+</html>
